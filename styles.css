@@ -1,0 +1,58 @@
+p {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.center {  
+    display: block;
+    margin: auto;
+    
+}
+
+#mixDough {
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#formDough {
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#fillDough {
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
